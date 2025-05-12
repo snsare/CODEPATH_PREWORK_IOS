@@ -11,8 +11,7 @@ I spent approximately 2 hours completing this prework.
 
 ## Video Walkthrough
 
-
-> Make sure your GIF link ends with `.gif` so it displays correctly!
+<img src='ios_prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## App Brainstorming
 
